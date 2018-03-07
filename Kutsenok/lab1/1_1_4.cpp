@@ -62,5 +62,3 @@ private:
   size_t m_size;
   T* m_array;
 };
-
-new_temp = old;
